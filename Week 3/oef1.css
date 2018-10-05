@@ -1,0 +1,18 @@
+body{
+    background-color:#c7ced8 ;
+    color: white;
+
+}
+table{
+    background-color: #27426d;
+    width: 100%;
+}
+th{
+    width: 20%;
+}
+tr:nth-child(2n+3){
+    background: #4f8cef;
+}
+tr:nth-child(2n+2){
+    background: #6facff;
+}

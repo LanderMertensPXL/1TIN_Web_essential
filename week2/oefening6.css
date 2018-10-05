@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana;
+    background-color: gray;
+    color: white;
+}
+h1 {
+    color: orange;
+}
+a{
+    color: white;
+}
+a:hover{
+    font-size: larger;
+}
+.festivals{
+
+}

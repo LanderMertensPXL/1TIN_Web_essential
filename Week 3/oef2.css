@@ -1,0 +1,10 @@
+table{
+    width: 750px;
+    height: 750px;
+}
+#1:nth-child(2n+1){
+    background: black;
+}
+#2:nth-child(1n+2){
+    background: black;
+}
